@@ -1,3 +1,3 @@
 RESTAURANT BILLING 
-  This is the most easiet and also faster in billing process making more effiecient
+  This is the most easiest and also faster in billing process making more effiecient
   
